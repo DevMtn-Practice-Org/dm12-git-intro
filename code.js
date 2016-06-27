@@ -1,0 +1,1 @@
+var journal = ["Much wow, such fun, many code"];
